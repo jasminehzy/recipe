@@ -1,0 +1,60 @@
+body {
+	font-family: serif;
+	line-height:1;
+	margin:0;
+	font-size:20px;
+}
+
+h1 {
+	
+	font-weight:300;
+	color: #000000;
+
+}
+
+
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+span {
+	color:#a3865b;
+}
+
+.instructions li, .extra li {
+	display:inline;
+
+}
+
+.extra {
+	color: #62a5a1;
+}
+
+.sidebar{
+	width:38% ;
+	float: left;
+	padding:20px;
+	margin-right:2%;
+}
+
+article. {
+	width:60%
+	float:right;
+	padding:20px;
+}
+
+.sidebar img {
+	width:100%;
+
+}
+
+.extra, .instructions {
+	font-size: 18px;
+}
+
+.words {
+	font-size:25px;
+
+}
+
